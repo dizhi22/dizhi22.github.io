@@ -36,7 +36,7 @@ var emails = [
     'sqhub3678@gmail.com'
 ];
 
-var urls=[".jtrocza.cc",".amwjurz.cc",".vildiho.cc"];
+var urls=[".edmugcl.com",".jtrocza.cc",".amwjurz.cc",".vildiho.cc"];
 
 var newestUrls = [];
 for(var i =0;i<urls.length*3;i++){
