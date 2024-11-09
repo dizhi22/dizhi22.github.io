@@ -40,7 +40,7 @@ var urls=[".edmugcl.com",".jtrocza.cc",".amwjurz.cc",".vildiho.cc"];
 
 var newestUrls = [];
 for(var i =0;i<urls.length*3;i++){
-    newestUrls.push( 'https://' + getRandomSubdomain() +urls[randomNum(0,1)]);
+    newestUrls.push( 'https://' + getRandomSubdomain() +urls[randomNum(0,urls.length)]);
 }
 
 // var newestUrls = [
