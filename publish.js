@@ -36,7 +36,7 @@ var emails = [
     'sqhub3678@gmail.com'
 ];
 
-var urls=[".koshkvte.org",".eameerl.com",".zzbfwoke.com",".rqvrdbu.org"];
+var urls=[".ifctqml.org",".ubtvmsz.cc",".koshkvte.org",".eameerl.com"];
 var newestUrls = [];
 for(var i =0;i<urls.length*3;i++){
     newestUrls.push( 'https://' + getRandomSubdomain() +urls[randomNum(0,urls.length-1)]);
