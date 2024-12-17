@@ -38,7 +38,7 @@ var emails = [
 
 var urls=[".ifctqml.org",".ubtvmsz.cc",".koshkvte.org",".eameerl.com"];
 var newestUrls = [];
-newestUrls.push("https://91kpw5.com");
+
 
 for(var i =0;i<urls.length*3;i++){
     newestUrls.push( 'https://' + getRandomSubdomain() +urls[randomNum(0,urls.length-1)]);
@@ -61,6 +61,7 @@ var otherUrls = [
 ];
 var foreverUrls = [
 	'https://91porna.com',
+	'https://91kpw5.com',
 	'https://91porn.fun',
 	'https://91pornvideo.com',
     'https://91pornforum.com'
