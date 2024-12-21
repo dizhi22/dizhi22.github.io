@@ -36,7 +36,7 @@ var emails = [
     'sqhub3678@gmail.com'
 ];
 
-var urls=[".ifctqml.org",".ubtvmsz.cc",".koshkvte.org",".eameerl.com"];
+var urls=[".lllqlsop.cc",".ifctqml.org",".ubtvmsz.cc",".koshkvte.org"];
 var newestUrls = [];
 
 
@@ -61,7 +61,7 @@ var otherUrls = [
 ];
 var foreverUrls = [
 	'https://91porna.com',
-	'https://91kpw5.com',
+	'https://91kpw7.com',
 	'https://91porn.fun',
 	'https://91pornvideo.com',
     'https://91pornforum.com'
