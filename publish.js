@@ -36,7 +36,13 @@ var emails = [
     'sqhub3678@gmail.com'
 ];
 
-var urls=[".lllqlsop.cc",".ifctqml.org",".ubtvmsz.cc",".koshkvte.org"];
+var urls=[];
+	urls.push(".byzhxmxa.net");
+	urls.push(".lllqlsop.cc");
+	urls.push(".ifctqml.org");
+	urls.push(".ubtvmsz.cc");
+var JumpPage="https://91kpw9.com";
+
 var newestUrls = [];
 
 
@@ -61,7 +67,7 @@ var otherUrls = [
 ];
 var foreverUrls = [
 	'https://91porna.com',
-	'https://91kpw7.com',
+	JumpPage,
 	'https://91porn.fun',
 	'https://91pornvideo.com',
     'https://91pornforum.com'
