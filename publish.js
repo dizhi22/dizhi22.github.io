@@ -63,7 +63,6 @@ var otherUrls = [
     'https://gitlab.com/91dizhi/go',
     'https://dizhi8.pages.dev',
     'https://dizhi22.github.io',
-    'https://bitbucket.org/91dizhi/go',
     'https://www.ebay.com/usr/weia-31'
 ];
 var foreverUrls = [
